@@ -30,7 +30,40 @@ This project detects whether a news article is **REAL or FAKE** using Natural La
 - Accuracy: XX%
 - Precision, Recall, F1-score available
 
+---## 📌 Features
+- Detect fake vs real news
+- NLP preprocessing
+- Machine learning model
+- Streamlit UI
+
+## 🧠 Tech Stack
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Streamlit
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+Model Performance
+
+(Add accuracy here)
+
+📁 Dataset
+
+Dataset not included due to size. Download from Kaggle.
+
+
 ---
+
+## 🥈 Step 2: (BIG IMPACT) Deploy online 🌐
+
+👉 If you do this → your project becomes **10x stronger**
+
+You’ll get a link like:
+
+https://fake-news-app.streamlit.app
 
 ## 🖥️ Run the Project
 
